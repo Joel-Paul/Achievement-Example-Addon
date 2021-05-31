@@ -45,6 +45,18 @@ src/minecraft/net/minecraft/src/RenderBlocks.~
 src/minecraft/net/minecraft/src/RenderGlobal.#
 src/minecraft/net/minecraft/src/RenderGlobal.~
 
+src/minecraft/achievement/aa_bg.png
+src/minecraft/net/minecraft/src/AchievementTab.java
+src/minecraft/net/minecraft/src/AchievementTabList.java
+src/minecraft/net/minecraft/src/EventDispatcher.java
+src/minecraft/net/minecraft/src/EventListener.java
+src/minecraft/net/minecraft/src/EventType.java
+src/minecraft_server/net/minecraft/src/AchievementTab.java
+src/minecraft_server/net/minecraft/src/AchievementTabList.java
+src/minecraft_server/net/minecraft/src/EventDispatcher.java
+src/minecraft_server/net/minecraft/src/EventListener.java
+src/minecraft_server/net/minecraft/src/EventType.java
+
 src/minecraft/Start.java
 src/minecraft/argo/format/CompactJsonFormatter.java
 src/minecraft/argo/format/CompactJsonFormatter_JsonNodeType.java
