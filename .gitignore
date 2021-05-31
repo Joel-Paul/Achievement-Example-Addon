@@ -117,7 +117,6 @@ src/minecraft/net/minecraft/src/AaaFCBlockTemplate.java
 src/minecraft/net/minecraft/src/AaaFCItemTemplate.java
 src/minecraft/net/minecraft/src/AABBLocalPool.java
 src/minecraft/net/minecraft/src/AABBPool.java
-src/minecraft/net/minecraft/src/Achievement.java
 src/minecraft/net/minecraft/src/AchievementList.java
 src/minecraft/net/minecraft/src/AchievementMap.java
 src/minecraft/net/minecraft/src/ActiveRenderInfo.java
@@ -2365,7 +2364,6 @@ src/minecraft/org/bouncycastle/util/Strings.java
 src/minecraft_server/net/minecraft/server/MinecraftServer.java
 src/minecraft_server/net/minecraft/src/AABBLocalPool.java
 src/minecraft_server/net/minecraft/src/AABBPool.java
-src/minecraft_server/net/minecraft/src/Achievement.java
 src/minecraft_server/net/minecraft/src/AchievementList.java
 src/minecraft_server/net/minecraft/src/AchievementMap.java
 src/minecraft_server/net/minecraft/src/AddonBlockDirectional.java
